@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hamidhosenazad
-- 👀 I’m interested in ... programming,games
+- 👋 Hi, I’m @Hamidazad
+- 👀 I’m interested in ... programming,books and movies
 - 🌱 I’m currently learning ... react 
 - 💞️ I’m looking to collaborate on ... nothing yet  
 - 📫 How to reach me ... hamidxazad@gmail.com
