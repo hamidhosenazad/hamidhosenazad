@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamidazad
+- 👋 Hi, I’m @Hamidhosenazad
 - 👀 I’m interested in ... programming,books and movies
 - 🌱 I’m currently learning ... react 
 - 💞️ I’m looking to collaborate on ... nothing yet  
